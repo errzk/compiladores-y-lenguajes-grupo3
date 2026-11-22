@@ -1,0 +1,2 @@
+Cuando lea pare se imprimira el texto de pare.
+Tambien cuando diga inicio se imprime un texto.

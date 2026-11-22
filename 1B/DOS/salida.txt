@@ -1,0 +1,5 @@
+Cuando lea Comando pare recibido
+ se imprimira el texto de Comando pare recibido
+.
+Tambien cuando diga Comando inicio ejecutado
+ se imprime un texto.
