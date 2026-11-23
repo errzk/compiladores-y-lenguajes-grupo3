@@ -1,0 +1,4 @@
+Letras mayusculas: 5
+Letras minusculas: 10
+Digitos: 5
+Espacios en blanco: 4
