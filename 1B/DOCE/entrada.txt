@@ -1,0 +1,3 @@
+Los colores de la página web son 0x1E90FF para el título y 0xFFA500 para los botones.
+La dirección del programa en memoria es 0x7FFE y el código de error fue 0xDEAD.
+El archivo pesa 2048 bytes, que en hexadecimal sería 0x800.

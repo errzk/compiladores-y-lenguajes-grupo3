@@ -1,0 +1,3 @@
+edad, nombre, 25, ciudad_1, 2026
+precio, 30, total$, x2, 7
+uno, dos; tres, 100, cuatro!
